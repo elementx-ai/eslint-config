@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-spoke",
-  "version": "0.4.0",
+  "name": "@danieljimeneznz/eslint-config-spoke",
+  "version": "0.5.0",
   "description": "Spoke's ESLint config",
   "license": "Unlicense",
   "author": {
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spoke-ph/eslint-config-spoke"
+    "url": "https://github.com/danieljimeneznz/eslint-config-spoke"
   },
   "bugs": {
-    "url": "https://github.com/spoke-ph/eslint-config-spoke/issues"
+    "url": "https://github.com/danieljimeneznz/eslint-config-spoke/issues"
   },
   "keywords": [
     "eslint",
@@ -20,17 +20,16 @@
   ],
   "main": "index.js",
   "scripts": {
-    "release:changelog": "release-changelog",
-    "version": "echo $npm_package_version"
+    "changelog": "kacl lint && kacl release"
   },
   "devDependencies": {
-    "@spoke-ph/changelog": "1.0.2"
+    "@brightcove/kacl": "0.1.11"
   },
   "peerDependencies": {
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.8.0",
-    "eslint-plugin-flowtype": "^4.5.3",
-    "@typescript-eslint/parser": "^2.14.0",
-    "@typescript-eslint/eslint-plugin": "^2.14.0"
+    "babel-eslint": "10.0.3",
+    "eslint": "7.29.0",
+    "eslint-plugin-flowtype": "5.7.2",
+    "@typescript-eslint/parser": "4.27.0",
+    "@typescript-eslint/eslint-plugin": "4.27.0"
   }
 }
