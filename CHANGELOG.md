@@ -4,6 +4,16 @@ This repository adheres to semantic versioning and follows the conventions of [k
 
 ## [Unreleased]
 
+## [1.0.0] - 2021-06-28
+### Changed
+- Allow "compatible with version" peer dependencies
+- Upgrade deps
+  - @typescript-eslint/parser         4.27.0  →  4.28.1
+  - @typescript-eslint/eslint-plugin  4.27.0  →  4.28.1
+
+### Removed
+- `babel` & `flow` configs as these are unused
+
 ## [0.5.0] - 2021-06-18
 ### Changed
 - Upgrade deps
@@ -39,7 +49,8 @@ This repository adheres to semantic versioning and follows the conventions of [k
 - `babel`, `common`, `flow`, `mocha`, `node` and `typecript` Configs
 - `common`, `flowService` and `typescriptService` Presets
 
-[Unreleased]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...HEAD
+[Unreleased]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...v1.0.0
 [0.5.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.2.0...v0.3.0
