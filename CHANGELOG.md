@@ -2,6 +2,34 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.0.0](https://github.com/spark-64/eslint-config/compare/v5.0.7...v6.0.0) (2022-08-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* Enforce strong typescript naming conventions, move presets to configs dir (#13)
+* Rename eslint-config repo, typescriptService as typescript (#11)
+* Change config name from eslint-config-spoke to eslint-config-danieljimeneznz (#7)
+
+### Features
+
+* Change config name from eslint-config-spoke to eslint-config-danieljimeneznz ([#7](https://github.com/spark-64/eslint-config/issues/7)) ([06b3675](https://github.com/spark-64/eslint-config/commit/06b3675b8f609cc159966ec6e8035568168d4c7b))
+* Enforce strong typescript naming conventions, move presets to configs dir ([#13](https://github.com/spark-64/eslint-config/issues/13)) ([078af5f](https://github.com/spark-64/eslint-config/commit/078af5faaa6e6659040547c73292041c59baad35))
+* Rename eslint-config repo, typescriptService as typescript ([#11](https://github.com/spark-64/eslint-config/issues/11)) ([944edb6](https://github.com/spark-64/eslint-config/commit/944edb61acd3a04c4433596df7477331d57138c2))
+
+
+### Bug Fixes
+
+* Add missing `format` from [@typescript-eslint](https://github.com/typescript-eslint) rules ([#21](https://github.com/spark-64/eslint-config/issues/21)) ([780be0f](https://github.com/spark-64/eslint-config/commit/780be0f2876cd8350b25cf4a08504fdceb104dec))
+* Add release-please for version management, publish to npmjs ([#3](https://github.com/spark-64/eslint-config/issues/3)) ([40fec4e](https://github.com/spark-64/eslint-config/commit/40fec4ef78ef74281f764223de959454f990a5b7))
+* Allow destructured variables to be snake case, closes [#28](https://github.com/spark-64/eslint-config/issues/28) ([#29](https://github.com/spark-64/eslint-config/issues/29)) ([f748b96](https://github.com/spark-64/eslint-config/commit/f748b96dc17d6e17109cee8963ce57c2bba36920))
+* Allow leadingUnderscore for const variable names ([#23](https://github.com/spark-64/eslint-config/issues/23)) ([62bc3be](https://github.com/spark-64/eslint-config/commit/62bc3be5e344a3dcae2ca1e275a2248bffaa6ceb))
+* Incorrect typescript rules, add curly eslint rule ([#15](https://github.com/spark-64/eslint-config/issues/15)) ([7cc8c9f](https://github.com/spark-64/eslint-config/commit/7cc8c9f69286557ce98eb5b7fe81104b805734e0))
+* Move most peerDeps into deps as these are required ([#26](https://github.com/spark-64/eslint-config/issues/26)) ([4da1cca](https://github.com/spark-64/eslint-config/commit/4da1cca46b80453ecd62c71ecd177ccf9731127b))
+* Move prefer-arrow/import plugins from extends to plugin ([#9](https://github.com/spark-64/eslint-config/issues/9)) ([812687d](https://github.com/spark-64/eslint-config/commit/812687db7e4b166c3d466bd8df066f1802b14ece))
+* Removed extreneous max-len `ignorePattern` ([#17](https://github.com/spark-64/eslint-config/issues/17)) ([11d56fc](https://github.com/spark-64/eslint-config/commit/11d56fc02f86b0ead3e6d89fb178cf1290c6bfb6))
+* Space after `strictCamelCase` ([#19](https://github.com/spark-64/eslint-config/issues/19)) ([64d995a](https://github.com/spark-64/eslint-config/commit/64d995a8b793805a65212e81103a36f8f167d991))
+
 ## [5.0.7](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.6...v5.0.7) (2022-07-02)
 
 
