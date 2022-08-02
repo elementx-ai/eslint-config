@@ -7,7 +7,7 @@ This package provides Spark 64's .eslintrc.yaml as an extensible [shared config]
 Install the library using:
 
 ```sh
-npm i -D eslint https://github.com/spark-64/eslint-config
+npm i -D eslint @elementx-ai/eslint-config
 ```
 
 ## Usage
@@ -18,5 +18,5 @@ e.g. using the `typescript` linting rules (additional rules can be added to this
 
 ```yaml
 extends:
-  - "@spark64/eslint-config/configs/typescript"
+  - "@elementx-ai/eslint-config/configs/typescript"
 ```
