@@ -38,7 +38,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           registry-url: "https://npm.pkg.github.com"
-          scope: "@danieljimeneznz"
+          scope: "@spark64"
 
       - run: npm publish
         env:
@@ -54,7 +54,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           registry-url: "https://registry.npmjs.org"
-          scope: "@danieljimeneznz"
+          scope: "@elementx-ai"
 
       - run: npm ci
 
