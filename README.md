@@ -1,13 +1,13 @@
-# danieljimeneznz Eslint Config
+# Spark 64's Eslint Config
 
-This package provides danieljimeneznz's .eslintrc.yaml as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
+This package provides Spark 64's .eslintrc.yaml as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
 
 ## Install and Setup
 
 Install the library using:
 
 ```sh
-npm i -D eslint @danieljimeneznz/eslint-config
+npm i -D eslint https://github.com/spark-64/eslint-config
 ```
 
 ## Usage
@@ -18,5 +18,5 @@ e.g. using the `typescript` linting rules (additional rules can be added to this
 
 ```yaml
 extends:
-  - "@danieljimeneznz/eslint-config/configs/typescript"
+  - "@spark64/eslint-config/configs/typescript"
 ```

@@ -1,14 +1,14 @@
 {
-  "name": "@danieljimeneznz/eslint-config",
+  "name": "@spark64/eslint-config",
   "version": "5.0.7",
-  "description": "danieljimeneznz's eslint config",
+  "description": "Spark 64's eslint config",
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danieljimeneznz/eslint-config"
+    "url": "https://github.com/spark-64/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/danieljimeneznz/eslint-config/issues"
+    "url": "https://github.com/spark-64/eslint-config/issues"
   },
   "keywords": [
     "eslint",
