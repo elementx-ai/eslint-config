@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.0.1](https://github.com/spark-64/eslint-config/compare/v6.0.0...v6.0.1) (2022-08-06)
+
+
+### Bug Fixes
+
+* Remove publishing to ghcr ([#3](https://github.com/spark-64/eslint-config/issues/3)) ([031a80b](https://github.com/spark-64/eslint-config/commit/031a80baf4b4de9513958afebaff5b9397512b0f))
+
 ## [6.0.0](https://github.com/spark-64/eslint-config/compare/v5.0.7...v6.0.0) (2022-08-02)
 
 
