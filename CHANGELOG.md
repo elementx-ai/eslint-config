@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.1.0](https://github.com/spark-64/eslint-config/compare/v6.0.1...v6.1.0) (2022-08-21)
+
+
+### Features
+
+* Relax naming and complexity rules ([#5](https://github.com/spark-64/eslint-config/issues/5)) ([8404a51](https://github.com/spark-64/eslint-config/commit/8404a510e728b8b8983396136ceb6cfd54851422))
+
 ## [6.0.1](https://github.com/spark-64/eslint-config/compare/v6.0.0...v6.0.1) (2022-08-06)
 
 
