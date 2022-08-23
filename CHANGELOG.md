@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.2.0](https://github.com/spark-64/eslint-config/compare/v6.1.0...v6.2.0) (2022-08-23)
+
+
+### Features
+
+* Limit scope of trailing comma rule ([#7](https://github.com/spark-64/eslint-config/issues/7)) ([6f6f0f0](https://github.com/spark-64/eslint-config/commit/6f6f0f072e5039a436a292d0c7ad23fde3a73716))
+
 ## [6.1.0](https://github.com/spark-64/eslint-config/compare/v6.0.1...v6.1.0) (2022-08-21)
 
 
