@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.3.0](https://github.com/elementx-ai/eslint-config/compare/v6.2.0...v6.3.0) (2022-11-11)
+
+
+### Features
+
+* Reduce aggressiveness of typescript naming-convention ([#9](https://github.com/elementx-ai/eslint-config/issues/9)) ([62ee964](https://github.com/elementx-ai/eslint-config/commit/62ee964113e7b0b318e2725b4831e2cb4dc4a17f))
+
 ## [6.2.0](https://github.com/spark-64/eslint-config/compare/v6.1.0...v6.2.0) (2022-08-23)
 
 
