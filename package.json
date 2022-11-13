@@ -1,6 +1,6 @@
 {
   "name": "@elementx-ai/eslint-config",
-  "version": "6.3.0",
+  "version": "7.0.0",
   "description": "Spark 64's eslint config",
   "license": "Unlicense",
   "repository": {
