@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.0.0](https://github.com/elementx-ai/eslint-config/compare/v6.3.0...v7.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove require-await rule, update ts-eslint deps for better decorator support (#11)
+
+### Features
+
+* Remove require-await rule, update ts-eslint deps for better decorator support ([#11](https://github.com/elementx-ai/eslint-config/issues/11)) ([4c98fed](https://github.com/elementx-ai/eslint-config/commit/4c98fedfd694fa7072e1eea03d145be94e291354))
+
 ## [6.3.0](https://github.com/elementx-ai/eslint-config/compare/v6.2.0...v6.3.0) (2022-11-11)
 
 
