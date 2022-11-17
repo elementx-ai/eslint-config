@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.0.0](https://github.com/elementx-ai/eslint-config/compare/v7.0.0...v8.0.0) (2022-11-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Require enum members to be UPPER_CASE (#13)
+
+### Features
+
+* Require enum members to be UPPER_CASE ([#13](https://github.com/elementx-ai/eslint-config/issues/13)) ([8b32a03](https://github.com/elementx-ai/eslint-config/commit/8b32a03bf7ba7a76db97cfffcf22e08739ba7f30))
+
 ## [7.0.0](https://github.com/elementx-ai/eslint-config/compare/v6.3.0...v7.0.0) (2022-11-13)
 
 
