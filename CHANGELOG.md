@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.0.1](https://github.com/elementx-ai/eslint-config/compare/v7.0.0...v7.0.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* Update README.md with company name ([#15](https://github.com/elementx-ai/eslint-config/issues/15)) ([464f5d0](https://github.com/elementx-ai/eslint-config/commit/464f5d0b7bcb37fb7212ef95af8742a789231e0c))
+
 ## [7.0.0](https://github.com/elementx-ai/eslint-config/compare/v6.3.0...v7.0.0) (2022-11-13)
 
 
