@@ -1,6 +1,6 @@
-# Spark 64's Eslint Config
+# ElementX's Eslint Config
 
-This package provides Spark 64's .eslintrc.yaml as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
+This package provides ElementX's .eslintrc.yaml as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
 
 ## Install and Setup
 
