@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.1.1](https://github.com/elementx-ai/eslint-config/compare/v7.1.0...v7.1.1) (2023-04-27)
+
+
+### Bug Fixes
+
+* Fix padded block settings ([#19](https://github.com/elementx-ai/eslint-config/issues/19)) ([ccac560](https://github.com/elementx-ai/eslint-config/commit/ccac560aada866ab839445fe155ae6e80fd54078))
+
 ## [7.1.0](https://github.com/elementx-ai/eslint-config/compare/v7.0.1...v7.1.0) (2023-04-27)
 
 
