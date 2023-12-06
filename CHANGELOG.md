@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.2.0](https://github.com/elementx-ai/eslint-config/compare/v7.1.1...v7.2.0) (2023-12-06)
+
+
+### Features
+
+* Move parser and plugin to peerDeps ([#21](https://github.com/elementx-ai/eslint-config/issues/21)) ([6df5c60](https://github.com/elementx-ai/eslint-config/commit/6df5c60475ba4ceabbbcb204f8f9e52644a1ef2d))
+
 ## [7.1.1](https://github.com/elementx-ai/eslint-config/compare/v7.1.0...v7.1.1) (2023-04-27)
 
 
