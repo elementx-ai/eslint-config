@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.2.1](https://github.com/elementx-ai/eslint-config/compare/v7.2.0...v7.2.1) (2024-10-06)
+
+
+### Bug Fixes
+
+* Don't need no-undef for Typescript ([#23](https://github.com/elementx-ai/eslint-config/issues/23)) ([cfc9ed8](https://github.com/elementx-ai/eslint-config/commit/cfc9ed898b3733b12ac66f454f0079bd53e78a42))
+
 ## [7.2.0](https://github.com/elementx-ai/eslint-config/compare/v7.1.1...v7.2.0) (2023-12-06)
 
 
