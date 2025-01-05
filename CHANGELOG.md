@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.2.2](https://github.com/elementx-ai/eslint-config/compare/v7.2.1...v7.2.2) (2025-01-05)
+
+
+### Bug Fixes
+
+* Upgrade deps ([#25](https://github.com/elementx-ai/eslint-config/issues/25)) ([b2a070f](https://github.com/elementx-ai/eslint-config/commit/b2a070f44c13fa47b2f740007bd82856ffbff083))
+
 ## [7.2.1](https://github.com/elementx-ai/eslint-config/compare/v7.2.0...v7.2.1) (2024-10-06)
 
 
