@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.0.0](https://github.com/elementx-ai/eslint-config/compare/v7.2.2...v8.0.0) (2025-01-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade eslint-config to use new flat file configuration structure ([#27](https://github.com/elementx-ai/eslint-config/issues/27))
+
+### Features
+
+* Upgrade eslint-config to use new flat file configuration structure ([#27](https://github.com/elementx-ai/eslint-config/issues/27)) ([8d27e29](https://github.com/elementx-ai/eslint-config/commit/8d27e29196e4e1d480672d0949334346a64f8a48))
+
 ## [7.2.2](https://github.com/elementx-ai/eslint-config/compare/v7.2.1...v7.2.2) (2025-01-05)
 
 
