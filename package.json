@@ -1,6 +1,6 @@
 {
   "name": "@elementx-ai/eslint-config",
-  "version": "8.0.1",
+  "version": "8.0.2",
   "description": "ElementX's ESLint Config",
   "license": "Unlicense",
   "repository": {
