@@ -18,7 +18,7 @@ e.g. using the `ts` linting rules (additional rules can be added to the array)
 
 ```js
 // eslint.config.js
-import ts from "@elementx-ai/eslint-config/configs/ts";
+import ts from "@elementx-ai/eslint-config/configs/ts.js";
 
 export default [
     ...ts,
