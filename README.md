@@ -1,6 +1,6 @@
 # ElementX's Eslint Config
 
-This package provides ElementX's .eslintrc.yaml as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
+This package provides ElementX's eslint config as an extensible [shared config](https://eslint.org/docs/developer-guide/shareable-configs) :sparkles:
 
 ## Install and Setup
 
@@ -12,11 +12,21 @@ npm i -D eslint @elementx-ai/eslint-config
 
 ## Usage
 
-Create a `.eslintrc.yaml` file in the root of the repo you are working on and extend the preset/config you wish to use
+Create a `eslint.config.js` file in the root of the repo you are working on and import the config you wish to use
 
-e.g. using the `typescript` linting rules (additional rules can be added to this `extends` list)
+e.g. using the `ts` linting rules (additional rules can be added to the array)
 
-```yaml
-extends:
-  - "@elementx-ai/eslint-config/configs/typescript"
+```js
+// eslint.config.js
+import elementx from "@elementx-ai/eslint-config/configs/ts";
+
+export default [
+    ...elementx,
+    // anything from here will override myconfig
+    {
+        rules: {
+            "no-unused-vars": "warn"
+        }
+    }
+];
 ```
