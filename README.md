@@ -14,11 +14,11 @@ npm i -D eslint @elementx-ai/eslint-config
 
 Create a `eslint.config.js` file in the root of the repo you are working on and import the config you wish to use
 
-e.g. using the `typescript` linting rules (additional rules can be added to the array)
+e.g. using the `ts` linting rules (additional rules can be added to the array)
 
 ```js
 // eslint.config.js
-import elementx from "@elementx-ai/eslint-config/configs/typescript";
+import elementx from "@elementx-ai/eslint-config/configs/ts";
 
 export default [
     ...elementx,

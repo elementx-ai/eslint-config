@@ -1,4 +1,4 @@
-import node from "./configs/node.js";
+import node from "./configs/js.js";
 
 export default [
   ...node,
