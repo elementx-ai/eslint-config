@@ -18,10 +18,10 @@ e.g. using the `ts` linting rules (additional rules can be added to the array)
 
 ```js
 // eslint.config.js
-import elementx from "@elementx-ai/eslint-config/configs/ts";
+import ts from "@elementx-ai/eslint-config/configs/ts";
 
 export default [
-    ...elementx,
+    ...ts,
     // anything from here will override myconfig
     {
         rules: {
