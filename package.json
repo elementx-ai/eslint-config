@@ -5,23 +5,29 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spark-64/eslint-config"
+    "url": "https://github.com/elementx-ai/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/spark-64/eslint-config/issues"
+    "url": "https://github.com/elementx-ai/eslint-config/issues"
   },
   "keywords": [
     "eslint",
-    "eslintconfig"
+    "eslintconfig",
+    "eslint-config"
   ],
   "main": "index.js",
+  "type": "module",
   "dependencies": {
+    "@stylistic/eslint-plugin": "^2.12.1",
+    "@typescript-eslint/eslint-plugin": "^8.19.1",
+    "@typescript-eslint/parser": "^8.19.1",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-prefer-arrow": "^1.2.3"
   },
   "peerDependencies": {
-    "eslint": "^8.57.1",
-    "@typescript-eslint/eslint-plugin": "^8.19.0",
-    "@typescript-eslint/parser": "^8.19.0"
+    "eslint": "^9.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
   }
 }
