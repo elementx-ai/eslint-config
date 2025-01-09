@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.0.3](https://github.com/elementx-ai/eslint-config/compare/v8.0.2...v8.0.3) (2025-01-09)
+
+
+### Bug Fixes
+
+* Update typescript projectService rule, eslint.config.js linting ([#33](https://github.com/elementx-ai/eslint-config/issues/33)) ([9a28c55](https://github.com/elementx-ai/eslint-config/commit/9a28c553cba6e93021459e25bb0a7e5295503191))
+
 ## [8.0.2](https://github.com/elementx-ai/eslint-config/compare/v8.0.1...v8.0.2) (2025-01-08)
 
 
