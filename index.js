@@ -1,5 +1,5 @@
-import node from "./configs/js.js";
+import js from "./configs/js.js";
 
 export default [
-  ...node,
+  ...js,
 ];

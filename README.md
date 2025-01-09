@@ -22,7 +22,7 @@ import ts from "@elementx-ai/eslint-config/configs/ts.js";
 
 export default [
     ...ts,
-    // anything from here will override myconfig
+    // anything from here will override ts
     {
         rules: {
             "no-unused-vars": "warn"
