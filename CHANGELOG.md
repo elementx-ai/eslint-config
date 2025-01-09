@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.0.4](https://github.com/elementx-ai/eslint-config/compare/v8.0.3...v8.0.4) (2025-01-09)
+
+
+### Bug Fixes
+
+* Add files to lib rules ([#35](https://github.com/elementx-ai/eslint-config/issues/35)) ([5183e93](https://github.com/elementx-ai/eslint-config/commit/5183e9318cad3ac4b96666da9a0c575092a2c19d))
+
 ## [8.0.3](https://github.com/elementx-ai/eslint-config/compare/v8.0.2...v8.0.3) (2025-01-09)
 
 
