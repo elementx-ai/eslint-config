@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.1.0](https://github.com/elementx-ai/eslint-config/compare/v8.0.4...v8.1.0) (2025-01-24)
+
+
+### Features
+
+* Add globals as dependency ([#37](https://github.com/elementx-ai/eslint-config/issues/37)) ([ab751d0](https://github.com/elementx-ai/eslint-config/commit/ab751d0dfe5db96144d0e5801c53719250a618f3))
+
 ## [8.0.4](https://github.com/elementx-ai/eslint-config/compare/v8.0.3...v8.0.4) (2025-01-09)
 
 
