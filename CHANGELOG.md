@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [8.1.1](https://github.com/elementx-ai/eslint-config/compare/v8.1.0...v8.1.1) (2025-01-28)
+
+
+### Bug Fixes
+
+* Turn off undef in TS, catch statement exceptions ([#39](https://github.com/elementx-ai/eslint-config/issues/39)) ([35b7ee4](https://github.com/elementx-ai/eslint-config/commit/35b7ee47c25219156e0ca9ada0a10caff31930fd))
+
 ## [8.1.0](https://github.com/elementx-ai/eslint-config/compare/v8.0.4...v8.1.0) (2025-01-24)
 
 
