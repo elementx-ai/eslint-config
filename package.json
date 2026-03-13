@@ -18,7 +18,6 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "@stylistic/eslint-plugin": "^2.12.1",
     "@typescript-eslint/eslint-plugin": "^8.19.1",
     "@typescript-eslint/parser": "^8.19.1",
     "eslint-config-prettier": "^10.1.3",
