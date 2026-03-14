@@ -26,7 +26,7 @@ jobs:
         id: release
         with:
           release-type: node
-          package-name: release-please-action
+          package-name: '@elementx-ai/eslint-config'
 
   build-and-publish-npm:
     runs-on: ubuntu-latest
@@ -36,6 +36,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
           scope: '@elementx-ai'
       - run: npm ci
