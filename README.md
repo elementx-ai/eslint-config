@@ -21,12 +21,12 @@ e.g. using the `ts` linting rules (additional rules can be added to the array)
 import ts from "@elementx-ai/eslint-config/configs/ts.js";
 
 export default [
-    ...ts,
-    // anything from here will override ts
-    {
-        rules: {
-            "no-unused-vars": "warn"
-        }
-    }
+  ...ts,
+  // anything from here will override ts
+  {
+    rules: {
+      "no-unused-vars": "warn",
+    },
+  },
 ];
 ```
