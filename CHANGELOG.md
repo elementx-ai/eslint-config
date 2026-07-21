@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [10.0.0](https://github.com/elementx-ai/eslint-config/compare/v9.0.0...v10.0.0) (2026-07-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade to eslint 10 ([#52](https://github.com/elementx-ai/eslint-config/issues/52))
+
+### Features
+
+* Upgrade to eslint 10 ([#52](https://github.com/elementx-ai/eslint-config/issues/52)) ([2772249](https://github.com/elementx-ai/eslint-config/commit/2772249d20a786eccbfa7402d6390ccd9ae9b5a2))
+
 ## [9.0.0](https://github.com/elementx-ai/eslint-config/compare/v8.3.0...v9.0.0) (2026-03-14)
 
 
